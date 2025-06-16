@@ -11,7 +11,7 @@ A classic game of **Battleship**, reimagined for the terminal — featuring an *
 ## 🕹️ Usage
 
 ```bash
-git clone https://github.com/julienliang2740/battleship.git
+git clone https://github.com/irenexu00/Battleship
 cd battleship
 python main.py
 ```
